@@ -3,6 +3,7 @@
     "name": "y",
     "slug": "y",
     "version": "1.0.0",
+    "sdkVersion": "52.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -36,6 +37,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3e0c0428-2c45-41a8-ae6f-4947e72d2444"
+      }
     }
   }
 }
