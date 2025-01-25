@@ -39,8 +39,7 @@ A simple React Native (Expo) application featuring **Login** and **Signup** func
 ### Installation Steps
 1. Clone the repository: **git clone https://github.com/your-username/your-repo.git**
 2. Install dependencies: **npm install**
-3. Start the Expo development server: **nppm start**
+3. Start the Expo development server: **npm start**
 4. Run the app on your device or emulator:
    - Android: **npm run android**
    - iOS: **npm run ios**
-   
